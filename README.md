@@ -11,6 +11,9 @@ Finally open the executable ExciteBike
 
 
 
+-------------------------------------------------------------------------------------------------------------
+
+
 
 **PT -** Jogo criado em Haskell com o módulo Gloss para o projeto de LI1 2019/20 por mim (Fytex) e Arkimedez.
 
