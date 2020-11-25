@@ -22,3 +22,5 @@ Foi tudo feito perfeitamente no tempo que tivemos exceto a *Tarefa6* (Bot), que 
 Para criar o executável execute no terminal: ghc -o ExciteBike Tarefa5_2019li1g068.hs
 
 Finalmente abra o executável ExciteBike
+
+<Remove this Line>
