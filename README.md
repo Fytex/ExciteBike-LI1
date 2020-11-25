@@ -23,4 +23,3 @@ Para criar o executável execute no terminal: ghc -o ExciteBike Tarefa5_2019li1g
 
 Finalmente abra o executável ExciteBike
 
-<Remove this Line>
